@@ -39,7 +39,7 @@ Data cleaning and transformation were performed using Power Query. Pre-aggregate
 ---
 
 ## 💳 Payment Value Distribution
-![Payment Analysis](04_payment_value_distribution.png)
+![Payment Analysis](payment_value_by_type.png)
 
 > Credit card payments account for the majority of transaction value, highlighting customer preference for flexible payment options.
 
