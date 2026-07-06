@@ -20,19 +20,19 @@ Data cleaning and transformation were performed using Power Query. Pre-aggregate
 ---
 
 ## 📊 Dashboard Overview
-![Dashboard](01_ecommerce_dashboard_overview.png)
+![Dashboard](dashboard_overview.png)
 
 ---
 
 ## 📦 Product Purchase Analysis
-![Product Analysis](02_product_purchase_frequency.png)
+![Product Analysis](orders_by_product.png)
 
 > A small number of products dominate purchase frequency, indicating concentrated demand.
 
 ---
 
 ## 📈 Revenue Trend Over Time
-![Revenue Trend](03_revenue_trend_over_time.png)
+![Revenue Trend](revenue_trend_yearly.png)
 
 > Revenue shows a consistent upward trend, reflecting business growth over time.
 
@@ -46,14 +46,14 @@ Data cleaning and transformation were performed using Power Query. Pre-aggregate
 ---
 
 ## 🧍 Seller Performance
-![Seller Analysis](05_seller_sales_performance.png)
+![Seller Analysis](items_sold_by_seller.png)
 
 > A few sellers contribute significantly to total sales volume, suggesting reliance on top-performing sellers.
 
 ---
 
 ## 🚚 Shipping Cost Analysis
-![Shipping Analysis](06_shipping_cost_analysis.png)
+![Shipping Analysis](freight_cost_by_product.png)
 
 > Shipping costs vary across products, which may impact pricing and profitability.
 
